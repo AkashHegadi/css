@@ -1,0 +1,18 @@
+h1{
+            color: black;
+            text-align: justify;
+            font-size: 70px;
+            text-decoration:underline red 1px;
+            text-transform: capitalize;
+   }
+p{
+            /* font-size: large;
+            color: rgb(33, 33, 201); */
+            /* font-family: fantasy; */
+            text-align: justify;
+            text-transform: capitalize;
+
+}
+a{
+    text-decoration: line-through;
+}

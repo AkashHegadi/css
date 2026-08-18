@@ -1,0 +1,37 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    nav {
+        /* margin-left: 200px; */
+        margin-bottom: 20px;
+        margin-top: 20px;
+        border-bottom: 1px solid black;
+        padding-bottom: 20px    ;
+
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            margin-left: 20px;
+            text-transform: uppercase;
+            color: black;
+        }
+
+        #one {
+            margin-left: 400px;
+            /* text-transform: uppercase; */
+        }
+
+        #y {
+            margin-left: 200px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 50px;
+            text-transform: lowercase;
+            color: rgb(232, 5, 232);
+            font-weight: normal;
+            font-style: italic;
+        }
+    }
+}

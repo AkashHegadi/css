@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20%;
+    margin-left: 650px;
+    border: 10px solid yellow;
+    margin-bottom: 100px
+}
+img {
+    margin-top: 50px;
+    height: 300px;
+    width: 300px;
+    border: 10px solid red;
+    /* padding-top: 10px;
+    padding-bottom: 150px;
+    padding-left: 120px;
+    padding-right: 100px; */
+    padding: 100px 20px 40px 60px;
+    margin-left: 650px;
+}

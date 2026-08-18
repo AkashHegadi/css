@@ -1,0 +1,322 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.container {
+    nav {
+        border-bottom: 2px solid;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        margin-top: 1%;
+        /* margin-left: 200px;
+        margin-right: 200px; */
+        /* border: 10px solid black; */
+        /* width: 400px; */
+        /* border-radius: 1%; */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .15);
+        border: none;
+
+        a {
+            font-size: 20px;
+            color: black;
+            text-decoration: none;
+            text-transform: capitalize;
+            margin-left: 50px;
+            font-weight: bold;
+        }
+
+        .ico {
+            margin-left: 5px;
+            border: 10px solid black;
+            border-radius: 30%;
+        }
+
+        #one {
+            margin-left: 700px;
+
+        }
+
+        #two {
+            margin-left: 350px;
+
+        }
+    }
+
+    #img {
+        margin-bottom: 2%;
+        margin-top: 2%;
+
+        img {
+            width: 50px;
+            height: 50px;
+            display: block;
+            margin-left: 700px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+
+        }
+
+        h1 {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: blue;
+            font-size: 50px;
+            text-transform: capitalize;
+        }
+    }
+
+    main {
+        #fu {
+
+            border-bottom: 1px solid;
+            margin-left: 250px;
+            margin-right: 150px;
+            padding-bottom: 2%;
+
+            a {
+                font-size: 20px;
+                text-decoration: none;
+                margin-left: 50px;
+                text-transform: capitalize;
+                color: black;
+                font-weight: bold;
+            }
+
+            #btn1 {
+                margin-left: 350px;
+            }
+        }
+
+        .flex {
+            display: flex;
+            justify-content: space-around;
+
+            #meals {
+                padding-bottom: 1%;
+                margin-top: 20px;
+                margin-left: 250px;
+                margin-right: 150px;
+                border: 10px solid black;
+                width: 400px;
+                border-radius: 1%;
+                box-shadow: 0 10px 20px rgba(0, 0, 0, .15);
+                border: none;
+
+
+
+                img {
+                    width: 400px;
+                    height: 300px;
+                    border-top-left-radius: 1%;
+                    border-top-right-radius: 1%;
+                }
+
+                h2 {
+                    color: blue;
+                    font-family: Arial, Helvetica, sans-serif;
+                    width: fit-content;
+                    text-align: left;
+                    padding: 2% 2% 2% 2%;
+                    text-transform: capitalize;
+                    font-size: 20px;
+                }
+
+                p {
+                    text-align: center;
+                    width: fit-content;
+                    text-align: justify;
+                    padding: 2% 2% 2% 2%;
+                }
+
+                #but {
+                    border-bottom: 1px solid red;
+                    padding-bottom: 1%;
+
+                    a {
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        padding: 2%;
+                        color: red;
+                    }
+                }
+
+                .footer {
+                    margin-top: 1%;
+
+                    a {
+                        padding: 2%;
+                        width: fit-content;
+                        text-decoration: none;
+                        color: #777;
+                        font-size: 16px;
+                    }
+                }
+            }
+
+            #meals2 {
+                padding-bottom: 1%;
+                margin-top: 20px;
+                margin-left: 250px;
+                margin-right: 150px;
+                border: 10px solid black;
+                width: 400px;
+                border-radius: 1%;
+                box-shadow: 0 10px 20px rgba(0, 0, 0, .15);
+                border: none;
+
+
+                img {
+                    width: 400px;
+                    height: 300px;
+                    border-top-left-radius: 1%;
+                    border-top-right-radius: 1%;
+                }
+
+                h2 {
+                    color: blue;
+                    font-family: Arial, Helvetica, sans-serif;
+                    width: fit-content;
+                    text-align: left;
+                    padding: 2% 2% 2% 2%;
+                    text-transform: capitalize;
+                    font-size: 20px;
+                }
+
+                p {
+                    text-align: center;
+                    width: fit-content;
+                    text-align: justify;
+                    padding: 2% 2% 2% 2%;
+                }
+
+                #but1 {
+                    border-bottom: 1px solid red;
+                    padding-bottom: 1%;
+
+                    a {
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        padding: 2%;
+                        color: red;
+                    }
+                }
+
+                .footer1 {
+                    margin-top: 1%;
+
+                    a {
+                        padding: 2%;
+                        width: fit-content;
+                        text-decoration: none;
+                        color: #777;
+                        font-size: 16px;
+                    }
+                }
+            }
+
+            #meals3 {
+                padding-bottom: 1%;
+                margin-top: 20px;
+                margin-left: 250px;
+                margin-right: 150px;
+                border: 10px solid black;
+                width: 400px;
+                border-radius: 1%;
+                box-shadow: 0 10px 20px rgba(0, 0, 0, .15);
+                border: none;
+
+
+                img {
+                    width: 400px;
+                    height: 300px;
+                    border-top-left-radius: 1%;
+                    border-top-right-radius: 1%;
+                }
+
+                h2 {
+                    color: blue;
+                    font-family: Arial, Helvetica, sans-serif;
+                    width: fit-content;
+                    text-align: left;
+                    padding: 2% 2% 2% 2%;
+                    text-transform: capitalize;
+                    font-size: 20px;
+                }
+
+                p {
+                    text-align: center;
+                    width: fit-content;
+                    text-align: justify;
+                    padding: 2% 2% 2% 2%;
+                }
+
+                #but2 {
+                    border-bottom: 1px solid red;
+                    padding-bottom: 1%;
+
+                    a {
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        padding: 2%;
+                        color: red;
+                    }
+                }
+
+                .footer2 {
+                    margin-top: 1%;
+
+                    a {
+                        padding: 2%;
+                        width: fit-content;
+                        text-decoration: none;
+                        color: #777;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+
+    .bo {
+        margin-top: 1%;
+        border: 1px solid blue;
+        background-color: blue;
+
+        #img1 {
+            margin-bottom: 2%;
+            margin-top: 2%;
+            margin-left: 250px;
+            margin-right: 150px;
+            border-bottom: 1px solid black;
+            padding-bottom: 2%;
+
+            img {
+                width: 50px;
+                height: 50px;
+                display: block;
+                margin-left: 610px;
+                margin-top: 30px;
+                margin-bottom: 20px;
+            }
+
+            h1 {
+                text-align: center;
+            }
+        }
+
+        .follow {
+            margin-left: 830px;
+
+            h1 {
+                text-transform: capitalize;
+                margin-bottom: 1%;
+            }
+
+            #two1 {
+                margin-left: 30px;
+                size: 100px;
+            }
+        }
+    }
+}

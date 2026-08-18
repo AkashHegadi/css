@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* .con{
+    display:flex;
+    word-spacing: 1%;
+} */
+.container{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: center;
+    justify-content: end;
+    /* justify-content: start; */
+    gap: 10%;
+
+    .fruits{
+        border: 10px solid red;
+        background-color: blue;
+        width: fit-content;
+        padding: 30px;
+        border-radius: 5%;
+        li{
+            list-style: none;
+            text-transform: capitalize;   
+        }
+    }
+    .veg{
+        border: 10px solid rgb(18, 16, 16);
+        background-color: pink;
+        width: fit-content;
+        padding: 30px;
+        border-radius: 5%;
+        li{
+            list-style: none;
+            text-transform: capitalize;   
+        }
+    }
+}

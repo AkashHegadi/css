@@ -1,0 +1,50 @@
+div
+{
+    h1
+    {
+        font-size: 80px;
+        text-align: center;
+        text-transform: capitalize;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-shadow: 10px 10px 10px gray;
+        background-color: blue;
+    }
+    ul
+    {
+        list-style: decimal;
+       li{
+        font-size: 30px
+       };
+    }
+}
+
+/* div
+{
+    h1
+    {
+        font-size: 80px;
+        text-align: center;
+        text-transform: capitalize;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-shadow: 10px 10px 10px gray;
+        background-color: blue;
+    }
+} */
+  /* div  {
+    h1
+    {
+        text-align: center;
+        font-size: 50px;
+        text-transform:uppercase;
+        text-decoration: underline;
+        font-weight: normal;
+        font-style: oblique;
+
+    }
+    p 
+    {
+        font-size: 20px;
+        text-align: justify;
+        /* font-weight: bold; */
+    }
+} */

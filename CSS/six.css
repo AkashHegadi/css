@@ -1,0 +1,37 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.class {
+    display: flex;
+    justify-content: center;
+    nav {
+        display: flex;
+        justify-content: space-around;
+        border: 1px solid black;
+        width:80%;
+        height: 50px;
+        align-items: center;
+    }
+    .left{
+        display: flex;
+        gap:1px;
+        
+        a{
+            font-size: 20px;
+        }
+        h3{
+            font-size: 20px;
+        }
+    }
+    .center{
+        display: flex;
+        gap: 100px;
+        a{
+            text-decoration: none;
+            font-size: 20px;
+            text-transform: capitalize;
+        }
+    }
+}

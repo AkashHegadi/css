@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    
+    .navbar{
+        margin-left: 100px;
+        margin-right: 100px;
+        border-bottom: 2px solid;
+        border-left: 2px solid;
+        border-right: 2px solid;
+        padding: 20px;
+
+        .one{
+            margin-left: 150px;
+            margin-right: 150px;
+        }
+
+       a{
+        font-size: 20px;
+        text-decoration: none;
+        text-transform: capitalize;
+       }
+    }
+}

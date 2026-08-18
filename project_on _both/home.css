@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  border-bottom: 2px solid;
+  padding-bottom: 5px;
+  #nav {
+    padding: 20px;
+    text-align: center;
+    text-transform: capitaize;
+  }
+  a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 50px;
+    text-transform: capitalize;
+  }
+  #two {
+    color: black;
+    background-color:azure;
+    width: fit-content;
+    margin-left: 50px;
+    text-transform: capitalize;
+    font-size: 25px;
+    padding: 0px 10px;
+    border-radius: 10px;
+  }
+  #one {
+    color: black;
+    font-size: 50px;
+    margin-right: 550px;
+    text-transform: capitalize;
+  }
+}
+  #main {
+    color: black;
+    background-color:navajowhite;
+    /* border-left: 10px blue ;
+    border-top: 10px blue ;
+    border-bottom: 10px blue ;
+    border-right: 10px blue ; */
+    border: 10px navajowhite;
+    margin: 100px 400px;
+    /* margin-top: 200px; */
+    padding: 20px 20px 20px 20px;
+    width: 40%;
+    text-align: justify;
+    border-radius: 20px;
+  }
+  p {
+    margin-top: 10px;
+  }
+  #h {
+    color: orangered;
+    margin-top: 10px;
+  }
+  #h1 {
+    margin-top: 10px;
+    text-transform: capitalize;
+  }
+  #btn1 {
+    color: white;
+    background-color: orangered;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: capitalize;
+  }
+  #btn2 {
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: capitalize;
+  }

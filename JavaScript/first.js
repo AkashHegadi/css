@@ -1,0 +1,11 @@
+let me = "AKASH"
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)
+console.log(me)

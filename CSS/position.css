@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.conatiner{
+    nav{
+        display: flex;
+        /* justify-content: space-around; */
+        /* border-bottom: 1px solid black; */
+        height: 70px;
+        align-items: center;
+        /* justify-content: center; */
+        gap: 40px;
+        box-shadow: 0 0 5px 5px lightgray;
+        
+        li{
+            list-style: none;
+            font-size: 20px;
+            background-color: black;
+            color: white;
+            width: 150px;
+            padding: 5px 0px;
+            text-align: center;
+            text-transform: uppercase;
+            border-radius: 10px;
+
+            
+        }
+        #li1{
+            background-color: orangered;
+            /* position: relative;
+            top: 25px;
+            left: 300px; */
+            position: absolute;
+            }
+    }
+}
